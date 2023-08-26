@@ -1,0 +1,15 @@
+Type : Commun
+Z Displacement = 2
+Z Step = 500
+
+Camera settings :
+Exposure time = 66.0
+FPS = 18
+BlackLevel = 116
+
+Patterns loaded :
+Pattern 1 = MiresDMD\mires\mire 256\Mire256_pix_decalee_0_quarts.bmp
+Pattern 2 = MiresDMD\mires\mire 256\Mire256_pix_decalee_1_quarts.bmp
+Pattern 3 = MiresDMD\mires\mire 256\Mire256_pix_decalee_2_quarts.bmp
+Pattern 4 = MiresDMD\mires\mire 256\Mire256_pix_decalee_2_quarts.bmp
+Pattern 5 = MiresDMD\mires\mire 256\Mire256_pix_decalee_2_quarts.bmp

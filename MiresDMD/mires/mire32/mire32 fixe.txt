@@ -1,0 +1,2 @@
+Normal Mode
+Mire32_pix_decalee_0_quarts.bmp,1,5000000,0,1,0,1

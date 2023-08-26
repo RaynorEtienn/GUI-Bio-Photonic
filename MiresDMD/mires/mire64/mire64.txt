@@ -1,0 +1,5 @@
+Normal Mode
+Mire64_pix_decalee_0_quarts.bmp,1,5000000,0,1,0,1
+Mire64_pix_decalee_1_quarts.bmp,1,5000000,0,1,0,1
+Mire64_pix_decalee_2_quarts.bmp,1,5000000,0,1,0,1
+Mire64_pix_decalee_3_quarts.bmp,1,5000000,0,1,0,1
